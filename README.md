@@ -15,7 +15,7 @@ Checks for the following subdomain takeover scenarios:
 
 All of this is based on this blog post here: [https://0xpatrik.com/subdomain-takeover-candidates/](https://0xpatrik.com/subdomain-takeover-candidates/)
 
-This script will not perform a takeover for you. You will need to figure that out. This will only point out subdomains that you may be able to takeover.
+This script will not perform a takeover for you. You will need to figure that out. This will only point out subdomains that you may be able to takeover. There will likely be false positives.
 
 ## Usage
 ```
